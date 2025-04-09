@@ -7,8 +7,9 @@ from pathlib import Path
 import os
 
 # Load processed data - updated paths
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # Goes up to root
 aespi = pd.read_csv(os.path.join(BASE_DIR, "data/processed/aespi_clean.csv"))
+regions = gpd.read_file(os.path.join(BASE_DIR, "data/processed/canada_regions.geojson"))
 
 # Load and preprocess regions
 regions = gpd.read_file(os.path.join(BASE_DIR, "data/processed/canada_regions.geojson"))
