@@ -22,6 +22,7 @@ min_date = min(all_dates)
 max_date = max(all_dates)
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("Canadian Architectural & Engineering Services Price Index"),
