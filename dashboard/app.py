@@ -22,7 +22,6 @@ min_date = min(all_dates)
 max_date = max(all_dates)
 
 app = dash.Dash(__name__)
-server = app.server
 
 app.layout = html.Div([
     html.H1("Canadian Architectural & Engineering Services Price Index"),
@@ -181,5 +180,5 @@ def update_change_plot(selected_regions, selected_service, timestamp_range):
     fig.update_traces(textfont_size=12, textangle=0, textposition="outside")
     return fig
 
-if __name__ == "__main__":
-    app.run_server(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
