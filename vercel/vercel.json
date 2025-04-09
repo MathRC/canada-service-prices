@@ -2,22 +2,18 @@
   "version": 2,
   "builds": [
     {
-      "src": "server.py",
+      "src": "vercel/server.py",  // Updated path
       "use": "@vercel/python"
     },
     {
-      "src": "assets/*",
+      "src": "vercel/assets/*",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
-      "src": "/",
-      "dest": "server.py"
-    },
-    {
-      "src": "/assets/(?<path>.*)",
-      "dest": "assets/<path>"
+      "src": "/(.*)",
+      "dest": "vercel/server.py"  // Updated path
     }
   ]
 }
