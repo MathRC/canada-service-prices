@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: canada-service-prices
+    env: python
+    buildCommand: cd dashboard && pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    workingDir: dashboard
