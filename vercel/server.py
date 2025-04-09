@@ -4,12 +4,14 @@ import plotly.express as px
 import pandas as pd
 import geopandas as gpd
 from pathlib import Path
+import os
 
-# Load processed data
-aespi = pd.read_csv("../data/processed/aespi_clean.csv")
+# Load processed data - updated paths
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+aespi = pd.read_csv(os.path.join(BASE_DIR, "data/processed/aespi_clean.csv"))
 
 # Load and preprocess regions
-regions = gpd.read_file("../data/processed/canada_regions.geojson")
+regions = gpd.read_file(os.path.join(BASE_DIR, "data/processed/canada_regions.geojson"))
 regions = regions.to_crs(epsg=4326)
 regions['geometry'] = regions.geometry.clip_by_rect(-141, 41.7, -52.6, 83.1)
 regions['geometry'] = regions.geometry.simplify(0.02)
