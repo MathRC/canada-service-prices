@@ -4,8 +4,8 @@
     {
       "src": "dashboard/app.py",
       "use": "@vercel/python",
-      "config": { 
-        "maxLambdaSize": "50mb"  // Allows large data files
+      "config": {
+        "maxLambdaSize": "50mb"
       }
     },
     {
