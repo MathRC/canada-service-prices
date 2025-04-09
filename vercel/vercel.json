@@ -6,14 +6,18 @@
       "use": "@vercel/python"
     },
     {
-      "src": "build.sh",
-      "use": "@vercel/static-build"
+      "src": "assets/*",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/",
       "dest": "server.py"
+    },
+    {
+      "src": "/assets/(?<path>.*)",
+      "dest": "assets/<path>"
     }
   ]
 }
