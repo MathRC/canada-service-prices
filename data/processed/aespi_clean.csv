@@ -1,0 +1,673 @@
+Date,Region,Service Category,Index Value
+2018-01-01,Canada,"Architectural, engineering and related services price index",99.5
+2018-01-01,Canada,Architectural and landscape architectural services,99.3
+2018-01-01,Canada,Engineering services,99.5
+2018-01-01,Canada,Surveying and mapping services,99.9
+2018-01-01,Atlantic Region,"Architectural, engineering and related services price index",100.0
+2018-01-01,Atlantic Region,Architectural and landscape architectural services,100.1
+2018-01-01,Atlantic Region,Engineering services,100.0
+2018-01-01,Atlantic Region,Surveying and mapping services,99.4
+2018-01-01,Quebec,"Architectural, engineering and related services price index",99.4
+2018-01-01,Quebec,Architectural and landscape architectural services,99.0
+2018-01-01,Quebec,Engineering services,99.4
+2018-01-01,Quebec,Surveying and mapping services,99.9
+2018-01-01,Ontario,"Architectural, engineering and related services price index",99.3
+2018-01-01,Ontario,Architectural and landscape architectural services,99.5
+2018-01-01,Ontario,Engineering services,99.3
+2018-01-01,Ontario,Surveying and mapping services,99.6
+2018-01-01,Prairie Region,"Architectural, engineering and related services price index",99.5
+2018-01-01,Prairie Region,Architectural and landscape architectural services,99.3
+2018-01-01,Prairie Region,Engineering services,99.5
+2018-01-01,Prairie Region,Surveying and mapping services,100.0
+2018-01-01,British Columbia and territories,"Architectural, engineering and related services price index",99.7
+2018-01-01,British Columbia and territories,Architectural and landscape architectural services,98.7
+2018-01-01,British Columbia and territories,Engineering services,99.8
+2018-01-01,British Columbia and territories,Surveying and mapping services,99.9
+2018-04-01,Canada,"Architectural, engineering and related services price index",99.9
+2018-04-01,Canada,Architectural and landscape architectural services,99.8
+2018-04-01,Canada,Engineering services,99.9
+2018-04-01,Canada,Surveying and mapping services,99.9
+2018-04-01,Atlantic Region,"Architectural, engineering and related services price index",99.7
+2018-04-01,Atlantic Region,Architectural and landscape architectural services,100.0
+2018-04-01,Atlantic Region,Engineering services,99.7
+2018-04-01,Atlantic Region,Surveying and mapping services,99.4
+2018-04-01,Quebec,"Architectural, engineering and related services price index",100.0
+2018-04-01,Quebec,Architectural and landscape architectural services,100.2
+2018-04-01,Quebec,Engineering services,100.0
+2018-04-01,Quebec,Surveying and mapping services,99.9
+2018-04-01,Ontario,"Architectural, engineering and related services price index",99.9
+2018-04-01,Ontario,Architectural and landscape architectural services,100.1
+2018-04-01,Ontario,Engineering services,99.8
+2018-04-01,Ontario,Surveying and mapping services,99.6
+2018-04-01,Prairie Region,"Architectural, engineering and related services price index",99.8
+2018-04-01,Prairie Region,Architectural and landscape architectural services,99.8
+2018-04-01,Prairie Region,Engineering services,99.8
+2018-04-01,Prairie Region,Surveying and mapping services,100.0
+2018-04-01,British Columbia and territories,"Architectural, engineering and related services price index",99.9
+2018-04-01,British Columbia and territories,Architectural and landscape architectural services,98.8
+2018-04-01,British Columbia and territories,Engineering services,100.1
+2018-04-01,British Columbia and territories,Surveying and mapping services,99.9
+2018-07-01,Canada,"Architectural, engineering and related services price index",100.3
+2018-07-01,Canada,Architectural and landscape architectural services,100.3
+2018-07-01,Canada,Engineering services,100.3
+2018-07-01,Canada,Surveying and mapping services,100.2
+2018-07-01,Atlantic Region,"Architectural, engineering and related services price index",99.7
+2018-07-01,Atlantic Region,Architectural and landscape architectural services,99.9
+2018-07-01,Atlantic Region,Engineering services,99.7
+2018-07-01,Atlantic Region,Surveying and mapping services,99.4
+2018-07-01,Quebec,"Architectural, engineering and related services price index",100.4
+2018-07-01,Quebec,Architectural and landscape architectural services,100.0
+2018-07-01,Quebec,Engineering services,100.4
+2018-07-01,Quebec,Surveying and mapping services,99.9
+2018-07-01,Ontario,"Architectural, engineering and related services price index",100.3
+2018-07-01,Ontario,Architectural and landscape architectural services,100.1
+2018-07-01,Ontario,Engineering services,100.3
+2018-07-01,Ontario,Surveying and mapping services,101.0
+2018-07-01,Prairie Region,"Architectural, engineering and related services price index",100.5
+2018-07-01,Prairie Region,Architectural and landscape architectural services,100.7
+2018-07-01,Prairie Region,Engineering services,100.5
+2018-07-01,Prairie Region,Surveying and mapping services,100.1
+2018-07-01,British Columbia and territories,"Architectural, engineering and related services price index",99.9
+2018-07-01,British Columbia and territories,Architectural and landscape architectural services,100.8
+2018-07-01,British Columbia and territories,Engineering services,99.9
+2018-07-01,British Columbia and territories,Surveying and mapping services,100.1
+2018-10-01,Canada,"Architectural, engineering and related services price index",100.3
+2018-10-01,Canada,Architectural and landscape architectural services,100.6
+2018-10-01,Canada,Engineering services,100.3
+2018-10-01,Canada,Surveying and mapping services,100.0
+2018-10-01,Atlantic Region,"Architectural, engineering and related services price index",100.6
+2018-10-01,Atlantic Region,Architectural and landscape architectural services,100.0
+2018-10-01,Atlantic Region,Engineering services,100.5
+2018-10-01,Atlantic Region,Surveying and mapping services,101.7
+2018-10-01,Quebec,"Architectural, engineering and related services price index",100.2
+2018-10-01,Quebec,Architectural and landscape architectural services,100.8
+2018-10-01,Quebec,Engineering services,100.2
+2018-10-01,Quebec,Surveying and mapping services,100.2
+2018-10-01,Ontario,"Architectural, engineering and related services price index",100.5
+2018-10-01,Ontario,Architectural and landscape architectural services,100.4
+2018-10-01,Ontario,Engineering services,100.5
+2018-10-01,Ontario,Surveying and mapping services,99.8
+2018-10-01,Prairie Region,"Architectural, engineering and related services price index",100.1
+2018-10-01,Prairie Region,Architectural and landscape architectural services,100.2
+2018-10-01,Prairie Region,Engineering services,100.2
+2018-10-01,Prairie Region,Surveying and mapping services,99.9
+2018-10-01,British Columbia and territories,"Architectural, engineering and related services price index",100.4
+2018-10-01,British Columbia and territories,Architectural and landscape architectural services,101.7
+2018-10-01,British Columbia and territories,Engineering services,100.3
+2018-10-01,British Columbia and territories,Surveying and mapping services,100.2
+2019-01-01,Canada,"Architectural, engineering and related services price index",100.7
+2019-01-01,Canada,Architectural and landscape architectural services,101.1
+2019-01-01,Canada,Engineering services,100.6
+2019-01-01,Canada,Surveying and mapping services,101.1
+2019-01-01,Atlantic Region,"Architectural, engineering and related services price index",101.4
+2019-01-01,Atlantic Region,Architectural and landscape architectural services,100.0
+2019-01-01,Atlantic Region,Engineering services,101.4
+2019-01-01,Atlantic Region,Surveying and mapping services,102.0
+2019-01-01,Quebec,"Architectural, engineering and related services price index",101.6
+2019-01-01,Quebec,Architectural and landscape architectural services,100.8
+2019-01-01,Quebec,Engineering services,101.7
+2019-01-01,Quebec,Surveying and mapping services,100.2
+2019-01-01,Ontario,"Architectural, engineering and related services price index",101.5
+2019-01-01,Ontario,Architectural and landscape architectural services,101.2
+2019-01-01,Ontario,Engineering services,101.5
+2019-01-01,Ontario,Surveying and mapping services,101.1
+2019-01-01,Prairie Region,"Architectural, engineering and related services price index",99.8
+2019-01-01,Prairie Region,Architectural and landscape architectural services,100.4
+2019-01-01,Prairie Region,Engineering services,99.7
+2019-01-01,Prairie Region,Surveying and mapping services,101.1
+2019-01-01,British Columbia and territories,"Architectural, engineering and related services price index",102.3
+2019-01-01,British Columbia and territories,Architectural and landscape architectural services,102.1
+2019-01-01,British Columbia and territories,Engineering services,102.3
+2019-01-01,British Columbia and territories,Surveying and mapping services,101.1
+2019-04-01,Canada,"Architectural, engineering and related services price index",101.9
+2019-04-01,Canada,Architectural and landscape architectural services,101.5
+2019-04-01,Canada,Engineering services,101.9
+2019-04-01,Canada,Surveying and mapping services,101.7
+2019-04-01,Atlantic Region,"Architectural, engineering and related services price index",101.6
+2019-04-01,Atlantic Region,Architectural and landscape architectural services,100.0
+2019-04-01,Atlantic Region,Engineering services,101.7
+2019-04-01,Atlantic Region,Surveying and mapping services,102.0
+2019-04-01,Quebec,"Architectural, engineering and related services price index",104.9
+2019-04-01,Quebec,Architectural and landscape architectural services,100.6
+2019-04-01,Quebec,Engineering services,105.2
+2019-04-01,Quebec,Surveying and mapping services,100.2
+2019-04-01,Ontario,"Architectural, engineering and related services price index",101.6
+2019-04-01,Ontario,Architectural and landscape architectural services,101.7
+2019-04-01,Ontario,Engineering services,101.6
+2019-04-01,Ontario,Surveying and mapping services,100.9
+2019-04-01,Prairie Region,"Architectural, engineering and related services price index",101.3
+2019-04-01,Prairie Region,Architectural and landscape architectural services,101.2
+2019-04-01,Prairie Region,Engineering services,101.2
+2019-04-01,Prairie Region,Surveying and mapping services,101.7
+2019-04-01,British Columbia and territories,"Architectural, engineering and related services price index",102.4
+2019-04-01,British Columbia and territories,Architectural and landscape architectural services,101.9
+2019-04-01,British Columbia and territories,Engineering services,102.4
+2019-04-01,British Columbia and territories,Surveying and mapping services,104.3
+2019-07-01,Canada,"Architectural, engineering and related services price index",102.1
+2019-07-01,Canada,Architectural and landscape architectural services,101.8
+2019-07-01,Canada,Engineering services,102.2
+2019-07-01,Canada,Surveying and mapping services,101.3
+2019-07-01,Atlantic Region,"Architectural, engineering and related services price index",101.8
+2019-07-01,Atlantic Region,Architectural and landscape architectural services,100.9
+2019-07-01,Atlantic Region,Engineering services,101.9
+2019-07-01,Atlantic Region,Surveying and mapping services,102.0
+2019-07-01,Quebec,"Architectural, engineering and related services price index",105.9
+2019-07-01,Quebec,Architectural and landscape architectural services,99.9
+2019-07-01,Quebec,Engineering services,106.2
+2019-07-01,Quebec,Surveying and mapping services,100.4
+2019-07-01,Ontario,"Architectural, engineering and related services price index",101.9
+2019-07-01,Ontario,Architectural and landscape architectural services,102.0
+2019-07-01,Ontario,Engineering services,101.9
+2019-07-01,Ontario,Surveying and mapping services,102.7
+2019-07-01,Prairie Region,"Architectural, engineering and related services price index",101.3
+2019-07-01,Prairie Region,Architectural and landscape architectural services,101.9
+2019-07-01,Prairie Region,Engineering services,101.3
+2019-07-01,Prairie Region,Surveying and mapping services,100.9
+2019-07-01,British Columbia and territories,"Architectural, engineering and related services price index",102.9
+2019-07-01,British Columbia and territories,Architectural and landscape architectural services,101.9
+2019-07-01,British Columbia and territories,Engineering services,103.0
+2019-07-01,British Columbia and territories,Surveying and mapping services,103.1
+2019-10-01,Canada,"Architectural, engineering and related services price index",101.8
+2019-10-01,Canada,Architectural and landscape architectural services,102.4
+2019-10-01,Canada,Engineering services,101.8
+2019-10-01,Canada,Surveying and mapping services,101.5
+2019-10-01,Atlantic Region,"Architectural, engineering and related services price index",102.1
+2019-10-01,Atlantic Region,Architectural and landscape architectural services,100.9
+2019-10-01,Atlantic Region,Engineering services,102.2
+2019-10-01,Atlantic Region,Surveying and mapping services,101.8
+2019-10-01,Quebec,"Architectural, engineering and related services price index",107.2
+2019-10-01,Quebec,Architectural and landscape architectural services,100.0
+2019-10-01,Quebec,Engineering services,107.6
+2019-10-01,Quebec,Surveying and mapping services,100.4
+2019-10-01,Ontario,"Architectural, engineering and related services price index",101.8
+2019-10-01,Ontario,Architectural and landscape architectural services,102.4
+2019-10-01,Ontario,Engineering services,101.7
+2019-10-01,Ontario,Surveying and mapping services,102.1
+2019-10-01,Prairie Region,"Architectural, engineering and related services price index",100.8
+2019-10-01,Prairie Region,Architectural and landscape architectural services,102.7
+2019-10-01,Prairie Region,Engineering services,100.8
+2019-10-01,Prairie Region,Surveying and mapping services,101.1
+2019-10-01,British Columbia and territories,"Architectural, engineering and related services price index",101.0
+2019-10-01,British Columbia and territories,Architectural and landscape architectural services,103.5
+2019-10-01,British Columbia and territories,Engineering services,100.7
+2019-10-01,British Columbia and territories,Surveying and mapping services,105.0
+2020-01-01,Canada,"Architectural, engineering and related services price index",102.7
+2020-01-01,Canada,Architectural and landscape architectural services,103.9
+2020-01-01,Canada,Engineering services,102.6
+2020-01-01,Canada,Surveying and mapping services,103.2
+2020-01-01,Atlantic Region,"Architectural, engineering and related services price index",102.8
+2020-01-01,Atlantic Region,Architectural and landscape architectural services,116.9
+2020-01-01,Atlantic Region,Engineering services,102.2
+2020-01-01,Atlantic Region,Surveying and mapping services,101.4
+2020-01-01,Quebec,"Architectural, engineering and related services price index",108.2
+2020-01-01,Quebec,Architectural and landscape architectural services,100.0
+2020-01-01,Quebec,Engineering services,108.6
+2020-01-01,Quebec,Surveying and mapping services,100.4
+2020-01-01,Ontario,"Architectural, engineering and related services price index",102.4
+2020-01-01,Ontario,Architectural and landscape architectural services,104.1
+2020-01-01,Ontario,Engineering services,102.1
+2020-01-01,Ontario,Surveying and mapping services,103.4
+2020-01-01,Prairie Region,"Architectural, engineering and related services price index",101.6
+2020-01-01,Prairie Region,Architectural and landscape architectural services,103.1
+2020-01-01,Prairie Region,Engineering services,101.4
+2020-01-01,Prairie Region,Surveying and mapping services,103.2
+2020-01-01,British Columbia and territories,"Architectural, engineering and related services price index",103.2
+2020-01-01,British Columbia and territories,Architectural and landscape architectural services,103.9
+2020-01-01,British Columbia and territories,Engineering services,103.1
+2020-01-01,British Columbia and territories,Surveying and mapping services,105.0
+2020-04-01,Canada,"Architectural, engineering and related services price index",103.6
+2020-04-01,Canada,Architectural and landscape architectural services,103.8
+2020-04-01,Canada,Engineering services,103.6
+2020-04-01,Canada,Surveying and mapping services,103.4
+2020-04-01,Atlantic Region,"Architectural, engineering and related services price index",102.8
+2020-04-01,Atlantic Region,Architectural and landscape architectural services,117.4
+2020-04-01,Atlantic Region,Engineering services,102.0
+2020-04-01,Atlantic Region,Surveying and mapping services,103.5
+2020-04-01,Quebec,"Architectural, engineering and related services price index",111.0
+2020-04-01,Quebec,Architectural and landscape architectural services,100.0
+2020-04-01,Quebec,Engineering services,111.6
+2020-04-01,Quebec,Surveying and mapping services,100.4
+2020-04-01,Ontario,"Architectural, engineering and related services price index",103.3
+2020-04-01,Ontario,Architectural and landscape architectural services,103.6
+2020-04-01,Ontario,Engineering services,103.2
+2020-04-01,Ontario,Surveying and mapping services,103.4
+2020-04-01,Prairie Region,"Architectural, engineering and related services price index",101.9
+2020-04-01,Prairie Region,Architectural and landscape architectural services,103.1
+2020-04-01,Prairie Region,Engineering services,101.8
+2020-04-01,Prairie Region,Surveying and mapping services,103.2
+2020-04-01,British Columbia and territories,"Architectural, engineering and related services price index",105.2
+2020-04-01,British Columbia and territories,Architectural and landscape architectural services,105.0
+2020-04-01,British Columbia and territories,Engineering services,105.2
+2020-04-01,British Columbia and territories,Surveying and mapping services,106.7
+2020-07-01,Canada,"Architectural, engineering and related services price index",104.5
+2020-07-01,Canada,Architectural and landscape architectural services,104.4
+2020-07-01,Canada,Engineering services,104.6
+2020-07-01,Canada,Surveying and mapping services,101.5
+2020-07-01,Atlantic Region,"Architectural, engineering and related services price index",102.9
+2020-07-01,Atlantic Region,Architectural and landscape architectural services,118.5
+2020-07-01,Atlantic Region,Engineering services,102.0
+2020-07-01,Atlantic Region,Surveying and mapping services,103.5
+2020-07-01,Quebec,"Architectural, engineering and related services price index",111.1
+2020-07-01,Quebec,Architectural and landscape architectural services,100.0
+2020-07-01,Quebec,Engineering services,111.7
+2020-07-01,Quebec,Surveying and mapping services,100.4
+2020-07-01,Ontario,"Architectural, engineering and related services price index",103.9
+2020-07-01,Ontario,Architectural and landscape architectural services,104.5
+2020-07-01,Ontario,Engineering services,103.8
+2020-07-01,Ontario,Surveying and mapping services,103.4
+2020-07-01,Prairie Region,"Architectural, engineering and related services price index",102.2
+2020-07-01,Prairie Region,Architectural and landscape architectural services,103.9
+2020-07-01,Prairie Region,Engineering services,102.2
+2020-07-01,Prairie Region,Surveying and mapping services,100.6
+2020-07-01,British Columbia and territories,"Architectural, engineering and related services price index",110.6
+2020-07-01,British Columbia and territories,Architectural and landscape architectural services,104.3
+2020-07-01,British Columbia and territories,Engineering services,111.3
+2020-07-01,British Columbia and territories,Surveying and mapping services,106.7
+2020-10-01,Canada,"Architectural, engineering and related services price index",105.2
+2020-10-01,Canada,Architectural and landscape architectural services,105.1
+2020-10-01,Canada,Engineering services,105.3
+2020-10-01,Canada,Surveying and mapping services,101.3
+2020-10-01,Atlantic Region,"Architectural, engineering and related services price index",102.6
+2020-10-01,Atlantic Region,Architectural and landscape architectural services,116.7
+2020-10-01,Atlantic Region,Engineering services,101.8
+2020-10-01,Atlantic Region,Surveying and mapping services,103.5
+2020-10-01,Quebec,"Architectural, engineering and related services price index",112.8
+2020-10-01,Quebec,Architectural and landscape architectural services,100.5
+2020-10-01,Quebec,Engineering services,113.5
+2020-10-01,Quebec,Surveying and mapping services,101.3
+2020-10-01,Ontario,"Architectural, engineering and related services price index",104.3
+2020-10-01,Ontario,Architectural and landscape architectural services,104.3
+2020-10-01,Ontario,Engineering services,104.4
+2020-10-01,Ontario,Surveying and mapping services,101.6
+2020-10-01,Prairie Region,"Architectural, engineering and related services price index",102.5
+2020-10-01,Prairie Region,Architectural and landscape architectural services,102.6
+2020-10-01,Prairie Region,Engineering services,102.6
+2020-10-01,Prairie Region,Surveying and mapping services,100.6
+2020-10-01,British Columbia and territories,"Architectural, engineering and related services price index",112.1
+2020-10-01,British Columbia and territories,Architectural and landscape architectural services,111.7
+2020-10-01,British Columbia and territories,Engineering services,112.2
+2020-10-01,British Columbia and territories,Surveying and mapping services,107.2
+2021-01-01,Canada,"Architectural, engineering and related services price index",105.9
+2021-01-01,Canada,Architectural and landscape architectural services,106.1
+2021-01-01,Canada,Engineering services,106.0
+2021-01-01,Canada,Surveying and mapping services,102.5
+2021-01-01,Atlantic Region,"Architectural, engineering and related services price index",102.9
+2021-01-01,Atlantic Region,Architectural and landscape architectural services,116.7
+2021-01-01,Atlantic Region,Engineering services,102.1
+2021-01-01,Atlantic Region,Surveying and mapping services,103.9
+2021-01-01,Quebec,"Architectural, engineering and related services price index",111.8
+2021-01-01,Quebec,Architectural and landscape architectural services,102.8
+2021-01-01,Quebec,Engineering services,112.3
+2021-01-01,Quebec,Surveying and mapping services,101.6
+2021-01-01,Ontario,"Architectural, engineering and related services price index",105.8
+2021-01-01,Ontario,Architectural and landscape architectural services,104.9
+2021-01-01,Ontario,Engineering services,106.0
+2021-01-01,Ontario,Surveying and mapping services,102.5
+2021-01-01,Prairie Region,"Architectural, engineering and related services price index",103.4
+2021-01-01,Prairie Region,Architectural and landscape architectural services,104.4
+2021-01-01,Prairie Region,Engineering services,103.4
+2021-01-01,Prairie Region,Surveying and mapping services,102.0
+2021-01-01,British Columbia and territories,"Architectural, engineering and related services price index",113.2
+2021-01-01,British Columbia and territories,Architectural and landscape architectural services,112.5
+2021-01-01,British Columbia and territories,Engineering services,113.4
+2021-01-01,British Columbia and territories,Surveying and mapping services,107.5
+2021-04-01,Canada,"Architectural, engineering and related services price index",106.0
+2021-04-01,Canada,Architectural and landscape architectural services,106.0
+2021-04-01,Canada,Engineering services,106.1
+2021-04-01,Canada,Surveying and mapping services,102.4
+2021-04-01,Atlantic Region,"Architectural, engineering and related services price index",102.8
+2021-04-01,Atlantic Region,Architectural and landscape architectural services,116.7
+2021-04-01,Atlantic Region,Engineering services,102.1
+2021-04-01,Atlantic Region,Surveying and mapping services,101.9
+2021-04-01,Quebec,"Architectural, engineering and related services price index",112.8
+2021-04-01,Quebec,Architectural and landscape architectural services,102.3
+2021-04-01,Quebec,Engineering services,113.4
+2021-04-01,Quebec,Surveying and mapping services,102.2
+2021-04-01,Ontario,"Architectural, engineering and related services price index",106.0
+2021-04-01,Ontario,Architectural and landscape architectural services,105.1
+2021-04-01,Ontario,Engineering services,106.2
+2021-04-01,Ontario,Surveying and mapping services,102.4
+2021-04-01,Prairie Region,"Architectural, engineering and related services price index",103.1
+2021-04-01,Prairie Region,Architectural and landscape architectural services,103.6
+2021-04-01,Prairie Region,Engineering services,103.2
+2021-04-01,Prairie Region,Surveying and mapping services,102.0
+2021-04-01,British Columbia and territories,"Architectural, engineering and related services price index",113.4
+2021-04-01,British Columbia and territories,Architectural and landscape architectural services,112.7
+2021-04-01,British Columbia and territories,Engineering services,113.6
+2021-04-01,British Columbia and territories,Surveying and mapping services,108.1
+2021-07-01,Canada,"Architectural, engineering and related services price index",106.3
+2021-07-01,Canada,Architectural and landscape architectural services,106.8
+2021-07-01,Canada,Engineering services,106.4
+2021-07-01,Canada,Surveying and mapping services,102.4
+2021-07-01,Atlantic Region,"Architectural, engineering and related services price index",102.9
+2021-07-01,Atlantic Region,Architectural and landscape architectural services,119.4
+2021-07-01,Atlantic Region,Engineering services,102.1
+2021-07-01,Atlantic Region,Surveying and mapping services,101.9
+2021-07-01,Quebec,"Architectural, engineering and related services price index",113.0
+2021-07-01,Quebec,Architectural and landscape architectural services,103.7
+2021-07-01,Quebec,Engineering services,113.5
+2021-07-01,Quebec,Surveying and mapping services,102.2
+2021-07-01,Ontario,"Architectural, engineering and related services price index",106.5
+2021-07-01,Ontario,Architectural and landscape architectural services,106.4
+2021-07-01,Ontario,Engineering services,106.7
+2021-07-01,Ontario,Surveying and mapping services,102.4
+2021-07-01,Prairie Region,"Architectural, engineering and related services price index",103.5
+2021-07-01,Prairie Region,Architectural and landscape architectural services,103.6
+2021-07-01,Prairie Region,Engineering services,103.5
+2021-07-01,Prairie Region,Surveying and mapping services,101.9
+2021-07-01,British Columbia and territories,"Architectural, engineering and related services price index",113.2
+2021-07-01,British Columbia and territories,Architectural and landscape architectural services,112.4
+2021-07-01,British Columbia and territories,Engineering services,113.3
+2021-07-01,British Columbia and territories,Surveying and mapping services,109.2
+2021-10-01,Canada,"Architectural, engineering and related services price index",107.0
+2021-10-01,Canada,Architectural and landscape architectural services,107.7
+2021-10-01,Canada,Engineering services,107.1
+2021-10-01,Canada,Surveying and mapping services,102.2
+2021-10-01,Atlantic Region,"Architectural, engineering and related services price index",103.5
+2021-10-01,Atlantic Region,Architectural and landscape architectural services,119.4
+2021-10-01,Atlantic Region,Engineering services,102.8
+2021-10-01,Atlantic Region,Surveying and mapping services,101.9
+2021-10-01,Quebec,"Architectural, engineering and related services price index",115.9
+2021-10-01,Quebec,Architectural and landscape architectural services,106.0
+2021-10-01,Quebec,Engineering services,116.5
+2021-10-01,Quebec,Surveying and mapping services,102.8
+2021-10-01,Ontario,"Architectural, engineering and related services price index",107.6
+2021-10-01,Ontario,Architectural and landscape architectural services,107.1
+2021-10-01,Ontario,Engineering services,107.8
+2021-10-01,Ontario,Surveying and mapping services,102.5
+2021-10-01,Prairie Region,"Architectural, engineering and related services price index",103.5
+2021-10-01,Prairie Region,Architectural and landscape architectural services,103.6
+2021-10-01,Prairie Region,Engineering services,103.6
+2021-10-01,Prairie Region,Surveying and mapping services,101.5
+2021-10-01,British Columbia and territories,"Architectural, engineering and related services price index",114.1
+2021-10-01,British Columbia and territories,Architectural and landscape architectural services,114.8
+2021-10-01,British Columbia and territories,Engineering services,114.1
+2021-10-01,British Columbia and territories,Surveying and mapping services,111.2
+2022-01-01,Canada,"Architectural, engineering and related services price index",108.9
+2022-01-01,Canada,Architectural and landscape architectural services,108.6
+2022-01-01,Canada,Engineering services,109.1
+2022-01-01,Canada,Surveying and mapping services,103.3
+2022-01-01,Atlantic Region,"Architectural, engineering and related services price index",106.0
+2022-01-01,Atlantic Region,Architectural and landscape architectural services,119.9
+2022-01-01,Atlantic Region,Engineering services,105.4
+2022-01-01,Atlantic Region,Surveying and mapping services,102.8
+2022-01-01,Quebec,"Architectural, engineering and related services price index",121.3
+2022-01-01,Quebec,Architectural and landscape architectural services,108.9
+2022-01-01,Quebec,Engineering services,122.0
+2022-01-01,Quebec,Surveying and mapping services,106.1
+2022-01-01,Ontario,"Architectural, engineering and related services price index",109.5
+2022-01-01,Ontario,Architectural and landscape architectural services,107.7
+2022-01-01,Ontario,Engineering services,109.9
+2022-01-01,Ontario,Surveying and mapping services,104.4
+2022-01-01,Prairie Region,"Architectural, engineering and related services price index",104.7
+2022-01-01,Prairie Region,Architectural and landscape architectural services,104.6
+2022-01-01,Prairie Region,Engineering services,104.8
+2022-01-01,Prairie Region,Surveying and mapping services,102.4
+2022-01-01,British Columbia and territories,"Architectural, engineering and related services price index",115.7
+2022-01-01,British Columbia and territories,Architectural and landscape architectural services,115.4
+2022-01-01,British Columbia and territories,Engineering services,115.8
+2022-01-01,British Columbia and territories,Surveying and mapping services,111.5
+2022-04-01,Canada,"Architectural, engineering and related services price index",110.3
+2022-04-01,Canada,Architectural and landscape architectural services,109.3
+2022-04-01,Canada,Engineering services,110.6
+2022-04-01,Canada,Surveying and mapping services,103.4
+2022-04-01,Atlantic Region,"Architectural, engineering and related services price index",108.2
+2022-04-01,Atlantic Region,Architectural and landscape architectural services,121.6
+2022-04-01,Atlantic Region,Engineering services,107.8
+2022-04-01,Atlantic Region,Surveying and mapping services,102.8
+2022-04-01,Quebec,"Architectural, engineering and related services price index",123.7
+2022-04-01,Quebec,Architectural and landscape architectural services,108.9
+2022-04-01,Quebec,Engineering services,124.5
+2022-04-01,Quebec,Surveying and mapping services,107.3
+2022-04-01,Ontario,"Architectural, engineering and related services price index",110.3
+2022-04-01,Ontario,Architectural and landscape architectural services,109.0
+2022-04-01,Ontario,Engineering services,110.6
+2022-04-01,Ontario,Surveying and mapping services,104.4
+2022-04-01,Prairie Region,"Architectural, engineering and related services price index",105.8
+2022-04-01,Prairie Region,Architectural and landscape architectural services,104.5
+2022-04-01,Prairie Region,Engineering services,106.1
+2022-04-01,Prairie Region,Surveying and mapping services,102.5
+2022-04-01,British Columbia and territories,"Architectural, engineering and related services price index",118.3
+2022-04-01,British Columbia and territories,Architectural and landscape architectural services,115.4
+2022-04-01,British Columbia and territories,Engineering services,118.6
+2022-04-01,British Columbia and territories,Surveying and mapping services,112.1
+2022-07-01,Canada,"Architectural, engineering and related services price index",111.2
+2022-07-01,Canada,Architectural and landscape architectural services,110.7
+2022-07-01,Canada,Engineering services,111.5
+2022-07-01,Canada,Surveying and mapping services,103.9
+2022-07-01,Atlantic Region,"Architectural, engineering and related services price index",108.5
+2022-07-01,Atlantic Region,Architectural and landscape architectural services,126.0
+2022-07-01,Atlantic Region,Engineering services,107.8
+2022-07-01,Atlantic Region,Surveying and mapping services,104.0
+2022-07-01,Quebec,"Architectural, engineering and related services price index",125.8
+2022-07-01,Quebec,Architectural and landscape architectural services,107.8
+2022-07-01,Quebec,Engineering services,126.8
+2022-07-01,Quebec,Surveying and mapping services,108.4
+2022-07-01,Ontario,"Architectural, engineering and related services price index",110.9
+2022-07-01,Ontario,Architectural and landscape architectural services,109.0
+2022-07-01,Ontario,Engineering services,111.4
+2022-07-01,Ontario,Surveying and mapping services,104.4
+2022-07-01,Prairie Region,"Architectural, engineering and related services price index",106.6
+2022-07-01,Prairie Region,Architectural and landscape architectural services,110.1
+2022-07-01,Prairie Region,Engineering services,106.7
+2022-07-01,Prairie Region,Surveying and mapping services,103.1
+2022-07-01,British Columbia and territories,"Architectural, engineering and related services price index",119.4
+2022-07-01,British Columbia and territories,Architectural and landscape architectural services,116.1
+2022-07-01,British Columbia and territories,Engineering services,119.9
+2022-07-01,British Columbia and territories,Surveying and mapping services,112.1
+2022-10-01,Canada,"Architectural, engineering and related services price index",111.7
+2022-10-01,Canada,Architectural and landscape architectural services,111.6
+2022-10-01,Canada,Engineering services,112.0
+2022-10-01,Canada,Surveying and mapping services,104.3
+2022-10-01,Atlantic Region,"Architectural, engineering and related services price index",109.4
+2022-10-01,Atlantic Region,Architectural and landscape architectural services,123.6
+2022-10-01,Atlantic Region,Engineering services,109.3
+2022-10-01,Atlantic Region,Surveying and mapping services,97.6
+2022-10-01,Quebec,"Architectural, engineering and related services price index",125.6
+2022-10-01,Quebec,Architectural and landscape architectural services,108.8
+2022-10-01,Quebec,Engineering services,126.5
+2022-10-01,Quebec,Surveying and mapping services,108.4
+2022-10-01,Ontario,"Architectural, engineering and related services price index",112.5
+2022-10-01,Ontario,Architectural and landscape architectural services,108.9
+2022-10-01,Ontario,Engineering services,113.3
+2022-10-01,Ontario,Surveying and mapping services,104.6
+2022-10-01,Prairie Region,"Architectural, engineering and related services price index",106.7
+2022-10-01,Prairie Region,Architectural and landscape architectural services,110.4
+2022-10-01,Prairie Region,Engineering services,106.7
+2022-10-01,Prairie Region,Surveying and mapping services,104.1
+2022-10-01,British Columbia and territories,"Architectural, engineering and related services price index",120.3
+2022-10-01,British Columbia and territories,Architectural and landscape architectural services,121.2
+2022-10-01,British Columbia and territories,Engineering services,120.3
+2022-10-01,British Columbia and territories,Surveying and mapping services,111.6
+2023-01-01,Canada,"Architectural, engineering and related services price index",114.5
+2023-01-01,Canada,Architectural and landscape architectural services,113.3
+2023-01-01,Canada,Engineering services,115.0
+2023-01-01,Canada,Surveying and mapping services,104.5
+2023-01-01,Atlantic Region,"Architectural, engineering and related services price index",113.1
+2023-01-01,Atlantic Region,Architectural and landscape architectural services,120.5
+2023-01-01,Atlantic Region,Engineering services,113.4
+2023-01-01,Atlantic Region,Surveying and mapping services,100.3
+2023-01-01,Quebec,"Architectural, engineering and related services price index",130.5
+2023-01-01,Quebec,Architectural and landscape architectural services,110.6
+2023-01-01,Quebec,Engineering services,131.6
+2023-01-01,Quebec,Surveying and mapping services,109.5
+2023-01-01,Ontario,"Architectural, engineering and related services price index",115.4
+2023-01-01,Ontario,Architectural and landscape architectural services,111.0
+2023-01-01,Ontario,Engineering services,116.4
+2023-01-01,Ontario,Surveying and mapping services,105.3
+2023-01-01,Prairie Region,"Architectural, engineering and related services price index",109.2
+2023-01-01,Prairie Region,Architectural and landscape architectural services,112.7
+2023-01-01,Prairie Region,Engineering services,109.4
+2023-01-01,Prairie Region,Surveying and mapping services,103.8
+2023-01-01,British Columbia and territories,"Architectural, engineering and related services price index",121.5
+2023-01-01,British Columbia and territories,Architectural and landscape architectural services,122.0
+2023-01-01,British Columbia and territories,Engineering services,121.6
+2023-01-01,British Columbia and territories,Surveying and mapping services,113.7
+2023-04-01,Canada,"Architectural, engineering and related services price index",115.2
+2023-04-01,Canada,Architectural and landscape architectural services,113.3
+2023-04-01,Canada,Engineering services,115.8
+2023-04-01,Canada,Surveying and mapping services,105.7
+2023-04-01,Atlantic Region,"Architectural, engineering and related services price index",114.2
+2023-04-01,Atlantic Region,Architectural and landscape architectural services,120.5
+2023-04-01,Atlantic Region,Engineering services,114.6
+2023-04-01,Atlantic Region,Surveying and mapping services,100.5
+2023-04-01,Quebec,"Architectural, engineering and related services price index",130.7
+2023-04-01,Quebec,Architectural and landscape architectural services,110.6
+2023-04-01,Quebec,Engineering services,131.8
+2023-04-01,Quebec,Surveying and mapping services,109.8
+2023-04-01,Ontario,"Architectural, engineering and related services price index",116.2
+2023-04-01,Ontario,Architectural and landscape architectural services,112.0
+2023-04-01,Ontario,Engineering services,117.2
+2023-04-01,Ontario,Surveying and mapping services,105.6
+2023-04-01,Prairie Region,"Architectural, engineering and related services price index",109.9
+2023-04-01,Prairie Region,Architectural and landscape architectural services,112.3
+2023-04-01,Prairie Region,Engineering services,110.1
+2023-04-01,Prairie Region,Surveying and mapping services,105.4
+2023-04-01,British Columbia and territories,"Architectural, engineering and related services price index",122.6
+2023-04-01,British Columbia and territories,Architectural and landscape architectural services,118.9
+2023-04-01,British Columbia and territories,Engineering services,123.1
+2023-04-01,British Columbia and territories,Surveying and mapping services,113.7
+2023-07-01,Canada,"Architectural, engineering and related services price index",116.4
+2023-07-01,Canada,Architectural and landscape architectural services,113.9
+2023-07-01,Canada,Engineering services,117.0
+2023-07-01,Canada,Surveying and mapping services,105.6
+2023-07-01,Atlantic Region,"Architectural, engineering and related services price index",114.7
+2023-07-01,Atlantic Region,Architectural and landscape architectural services,120.5
+2023-07-01,Atlantic Region,Engineering services,115.1
+2023-07-01,Atlantic Region,Surveying and mapping services,101.0
+2023-07-01,Quebec,"Architectural, engineering and related services price index",131.4
+2023-07-01,Quebec,Architectural and landscape architectural services,110.6
+2023-07-01,Quebec,Engineering services,132.6
+2023-07-01,Quebec,Surveying and mapping services,109.8
+2023-07-01,Ontario,"Architectural, engineering and related services price index",116.3
+2023-07-01,Ontario,Architectural and landscape architectural services,112.4
+2023-07-01,Ontario,Engineering services,117.3
+2023-07-01,Ontario,Surveying and mapping services,105.9
+2023-07-01,Prairie Region,"Architectural, engineering and related services price index",110.5
+2023-07-01,Prairie Region,Architectural and landscape architectural services,114.1
+2023-07-01,Prairie Region,Engineering services,110.7
+2023-07-01,Prairie Region,Surveying and mapping services,105.2
+2023-07-01,British Columbia and territories,"Architectural, engineering and related services price index",129.0
+2023-07-01,British Columbia and territories,Architectural and landscape architectural services,118.9
+2023-07-01,British Columbia and territories,Engineering services,130.2
+2023-07-01,British Columbia and territories,Surveying and mapping services,114.1
+2023-10-01,Canada,"Architectural, engineering and related services price index",116.5
+2023-10-01,Canada,Architectural and landscape architectural services,114.9
+2023-10-01,Canada,Engineering services,117.1
+2023-10-01,Canada,Surveying and mapping services,105.9
+2023-10-01,Atlantic Region,"Architectural, engineering and related services price index",116.0
+2023-10-01,Atlantic Region,Architectural and landscape architectural services,123.9
+2023-10-01,Atlantic Region,Engineering services,116.5
+2023-10-01,Atlantic Region,Surveying and mapping services,101.0
+2023-10-01,Quebec,"Architectural, engineering and related services price index",131.8
+2023-10-01,Quebec,Architectural and landscape architectural services,110.6
+2023-10-01,Quebec,Engineering services,133.0
+2023-10-01,Quebec,Surveying and mapping services,109.8
+2023-10-01,Ontario,"Architectural, engineering and related services price index",116.6
+2023-10-01,Ontario,Architectural and landscape architectural services,113.3
+2023-10-01,Ontario,Engineering services,117.4
+2023-10-01,Ontario,Surveying and mapping services,105.9
+2023-10-01,Prairie Region,"Architectural, engineering and related services price index",111.0
+2023-10-01,Prairie Region,Architectural and landscape architectural services,115.3
+2023-10-01,Prairie Region,Engineering services,111.2
+2023-10-01,Prairie Region,Surveying and mapping services,105.6
+2023-10-01,British Columbia and territories,"Architectural, engineering and related services price index",126.7
+2023-10-01,British Columbia and territories,Architectural and landscape architectural services,120.3
+2023-10-01,British Columbia and territories,Engineering services,127.5
+2023-10-01,British Columbia and territories,Surveying and mapping services,114.1
+2024-01-01,Canada,"Architectural, engineering and related services price index",119.5
+2024-01-01,Canada,Architectural and landscape architectural services,114.7
+2024-01-01,Canada,Engineering services,120.9
+2024-01-01,Canada,Surveying and mapping services,105.5
+2024-01-01,Atlantic Region,"Architectural, engineering and related services price index",121.7
+2024-01-01,Atlantic Region,Architectural and landscape architectural services,129.3
+2024-01-01,Atlantic Region,Engineering services,122.7
+2024-01-01,Atlantic Region,Surveying and mapping services,99.2
+2024-01-01,Quebec,"Architectural, engineering and related services price index",134.8
+2024-01-01,Quebec,Architectural and landscape architectural services,112.0
+2024-01-01,Quebec,Engineering services,136.9
+2024-01-01,Quebec,Surveying and mapping services,105.7
+2024-01-01,Ontario,"Architectural, engineering and related services price index",119.1
+2024-01-01,Ontario,Architectural and landscape architectural services,111.5
+2024-01-01,Ontario,Engineering services,121.0
+2024-01-01,Ontario,Surveying and mapping services,107.5
+2024-01-01,Prairie Region,"Architectural, engineering and related services price index",113.9
+2024-01-01,Prairie Region,Architectural and landscape architectural services,115.9
+2024-01-01,Prairie Region,Engineering services,114.5
+2024-01-01,Prairie Region,Surveying and mapping services,105.7
+2024-01-01,British Columbia and territories,"Architectural, engineering and related services price index",130.8
+2024-01-01,British Columbia and territories,Architectural and landscape architectural services,120.5
+2024-01-01,British Columbia and territories,Engineering services,132.5
+2024-01-01,British Columbia and territories,Surveying and mapping services,114.1
+2024-04-01,Canada,"Architectural, engineering and related services price index",121.1
+2024-04-01,Canada,Architectural and landscape architectural services,117.0
+2024-04-01,Canada,Engineering services,122.3
+2024-04-01,Canada,Surveying and mapping services,107.1
+2024-04-01,Atlantic Region,"Architectural, engineering and related services price index",122.3
+2024-04-01,Atlantic Region,Architectural and landscape architectural services,135.0
+2024-04-01,Atlantic Region,Engineering services,122.7
+2024-04-01,Atlantic Region,Surveying and mapping services,100.1
+2024-04-01,Quebec,"Architectural, engineering and related services price index",136.8
+2024-04-01,Quebec,Architectural and landscape architectural services,114.6
+2024-04-01,Quebec,Engineering services,138.5
+2024-04-01,Quebec,Surveying and mapping services,109.9
+2024-04-01,Ontario,"Architectural, engineering and related services price index",119.8
+2024-04-01,Ontario,Architectural and landscape architectural services,113.5
+2024-04-01,Ontario,Engineering services,121.3
+2024-04-01,Ontario,Surveying and mapping services,108.9
+2024-04-01,Prairie Region,"Architectural, engineering and related services price index",116.5
+2024-04-01,Prairie Region,Architectural and landscape architectural services,116.5
+2024-04-01,Prairie Region,Engineering services,117.6
+2024-04-01,Prairie Region,Surveying and mapping services,105.2
+2024-04-01,British Columbia and territories,"Architectural, engineering and related services price index",132.3
+2024-04-01,British Columbia and territories,Architectural and landscape architectural services,124.0
+2024-04-01,British Columbia and territories,Engineering services,133.5
+2024-04-01,British Columbia and territories,Surveying and mapping services,118.7
+2024-07-01,Canada,"Architectural, engineering and related services price index",121.7
+2024-07-01,Canada,Architectural and landscape architectural services,117.1
+2024-07-01,Canada,Engineering services,123.0
+2024-07-01,Canada,Surveying and mapping services,107.2
+2024-07-01,Atlantic Region,"Architectural, engineering and related services price index",122.3
+2024-07-01,Atlantic Region,Architectural and landscape architectural services,135.3
+2024-07-01,Atlantic Region,Engineering services,122.7
+2024-07-01,Atlantic Region,Surveying and mapping services,100.1
+2024-07-01,Quebec,"Architectural, engineering and related services price index",137.0
+2024-07-01,Quebec,Architectural and landscape architectural services,114.2
+2024-07-01,Quebec,Engineering services,138.7
+2024-07-01,Quebec,Surveying and mapping services,110.4
+2024-07-01,Ontario,"Architectural, engineering and related services price index",119.5
+2024-07-01,Ontario,Architectural and landscape architectural services,114.0
+2024-07-01,Ontario,Engineering services,120.8
+2024-07-01,Ontario,Surveying and mapping services,109.1
+2024-07-01,Prairie Region,"Architectural, engineering and related services price index",117.2
+2024-07-01,Prairie Region,Architectural and landscape architectural services,116.1
+2024-07-01,Prairie Region,Engineering services,118.4
+2024-07-01,Prairie Region,Surveying and mapping services,105.3
+2024-07-01,British Columbia and territories,"Architectural, engineering and related services price index",135.1
+2024-07-01,British Columbia and territories,Architectural and landscape architectural services,124.3
+2024-07-01,British Columbia and territories,Engineering services,136.8
+2024-07-01,British Columbia and territories,Surveying and mapping services,117.8
+2024-10-01,Canada,"Architectural, engineering and related services price index",122.4
+2024-10-01,Canada,Architectural and landscape architectural services,116.1
+2024-10-01,Canada,Engineering services,124.0
+2024-10-01,Canada,Surveying and mapping services,107.8
+2024-10-01,Atlantic Region,"Architectural, engineering and related services price index",122.4
+2024-10-01,Atlantic Region,Architectural and landscape architectural services,136.8
+2024-10-01,Atlantic Region,Engineering services,122.7
+2024-10-01,Atlantic Region,Surveying and mapping services,100.1
+2024-10-01,Quebec,"Architectural, engineering and related services price index",136.8
+2024-10-01,Quebec,Architectural and landscape architectural services,111.5
+2024-10-01,Quebec,Engineering services,139.2
+2024-10-01,Quebec,Surveying and mapping services,110.4
+2024-10-01,Ontario,"Architectural, engineering and related services price index",119.9
+2024-10-01,Ontario,Architectural and landscape architectural services,113.9
+2024-10-01,Ontario,Engineering services,121.4
+2024-10-01,Ontario,Surveying and mapping services,109.6
+2024-10-01,Prairie Region,"Architectural, engineering and related services price index",118.9
+2024-10-01,Prairie Region,Architectural and landscape architectural services,116.1
+2024-10-01,Prairie Region,Engineering services,120.3
+2024-10-01,Prairie Region,Surveying and mapping services,106.1
+2024-10-01,British Columbia and territories,"Architectural, engineering and related services price index",135.5
+2024-10-01,British Columbia and territories,Architectural and landscape architectural services,121.6
+2024-10-01,British Columbia and territories,Engineering services,137.7
+2024-10-01,British Columbia and territories,Surveying and mapping services,118.9
