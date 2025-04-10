@@ -24,6 +24,7 @@ Choose how you want to explore the interactive dashboard:
 Hosted on **AWS Elastic Beanstalk**:  
 👉 **[Launch Dashboard](http://canada-service-prices.eba-syppj3bg.us-east-1.elasticbeanstalk.com)
 
+
 ### 💻 Local Version  
 To install and run it locally:
 
@@ -54,6 +55,8 @@ Both options offer the full dashboard experience:
 ## 📜 License
 MIT License - see [LICENSE.txt](LICENSE.txt).
 
+---
+
 ## 🏗️ Repository Structure
 ```
 canada-service-prices/
@@ -65,6 +68,8 @@ canada-service-prices/
 └── README.md
 ```
 
+---
+
 ## 🔍 Key Insights
 1. **Price Index Variations**
    - **Quebec & BC**: Highest increases (+37.4 Quebec, +35.8 BC index points)
@@ -74,22 +79,7 @@ canada-service-prices/
    ![Price Change Heatmap](analysis/figures/price_change_heatmap.png)  
    *Engineering services drove Quebec's price surge (+39.8 points) and BC's increase (+37.9 points), while surveying services stagnated in Atlantic Canada (+0.7). Architectural services spiked in the Atlantic Region (+36.7 points).*
 
-## 🚀 Getting Started
-### 1. Setup Environment
-```bash
-conda env create -f environment.yml
-conda activate aespi-env
-```
-
-### 2. Run Analysis
-```bash
-jupyter notebook analysis/analysis.ipynb
-```
-
-### 3. Launch Dashboard
-```bash
-python dashboard/app.py  # Runs on http://localhost:8050
-```
+---
 
 ## 🛠️ Technical Stack
 - **Data Processing**: Pandas, NumPy
@@ -97,6 +87,8 @@ python dashboard/app.py  # Runs on http://localhost:8050
 - **Visualization**: Matplotlib, Seaborn
 - **Dashboard**: Plotly Dash, GeoPandas
 - **Geospatial**: GeoJSON, Choropleth maps
+
+---
 
 ## 📊 Data Source
 Statistics Canada. [Table 18-10-0164-01  Architectural, engineering and related services price index, quarterly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810016401)
