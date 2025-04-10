@@ -66,8 +66,8 @@ canada-service-prices/
 
 ## 🔍 Key Insights
 1. **Price Index Variations**
-   - **Quebec & BC**: Highest increases (+37.4 Quebec, +35.8 BC index points)
-   - **Ontario/Prairies**: Most stable growth (+20.6 Ontario, +19.4 Prairie points)
+   - **Quebec & BC**: Highest increases (+37.4 index points in Quebec, +35.8 in BC)
+   - **Ontario/Prairies**: Most stable growth (+20.6 in Ontario, +19.4 in the Prairies)
 
 2. **Sector Comparisons**  
    ![Price Change Heatmap](analysis/figures/price_change_heatmap.png)  
