@@ -14,7 +14,6 @@ Combines two approaches:
 1. **Exploratory data analysis** (Jupyter Notebook)
 2. **Interactive dashboard** (Plotly Dash)
 
----
 
 ## 🚀 Interactive Dashboard Access
 
@@ -43,19 +42,16 @@ python dashboard/app.py
 
 Open [http://localhost:8050](http://localhost:8050) in your browser.
 
----
 
 Both options offer the full dashboard experience:
 - 📈 Time series trends across regions and services  
 - 🗺️ Choropleth mapping of regional price averages  
 - 📊 Year-over-year percentage change charts
 
----
 
 ## 📜 License
 MIT License - see [LICENSE.txt](LICENSE.txt).
 
----
 
 ## 🏗️ Repository Structure
 ```
@@ -68,8 +64,6 @@ canada-service-prices/
 └── README.md
 ```
 
----
-
 ## 🔍 Key Insights
 1. **Price Index Variations**
    - **Quebec & BC**: Highest increases (+37.4 Quebec, +35.8 BC index points)
@@ -79,7 +73,6 @@ canada-service-prices/
    ![Price Change Heatmap](analysis/figures/price_change_heatmap.png)  
    *Engineering services drove Quebec's price surge (+39.8 points) and BC's increase (+37.9 points), while surveying services stagnated in Atlantic Canada (+0.7). Architectural services spiked in the Atlantic Region (+36.7 points).*
 
----
 
 ## 🛠️ Technical Stack
 - **Data Processing**: Pandas, NumPy
@@ -88,11 +81,9 @@ canada-service-prices/
 - **Dashboard**: Plotly Dash, GeoPandas
 - **Geospatial**: GeoJSON, Choropleth maps
 
----
 
 ## 📊 Data Source
 Statistics Canada. [Table 18-10-0164-01  Architectural, engineering and related services price index, quarterly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810016401)
 
----
 
 **Note**: Focuses on observable trends rather than predictive modeling due to rapidly changing economic conditions.
