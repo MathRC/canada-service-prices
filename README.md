@@ -16,17 +16,38 @@ Combines two approaches:
 
 ---
 
-## 🌐 Live Dashboard
+## 🚀 Interactive Dashboard Access
 
-Explore the interactive dashboard here:  
+Choose how you want to explore the interactive dashboard:
+
+### 🔗 Online Version  
+Hosted on **AWS Elastic Beanstalk**:  
 👉 **[Launch Dashboard](http://canada-service-prices.eba-syppj3bg.us-east-1.elasticbeanstalk.com)
-**  
-*(Hosted on AWS Elastic Beanstalk)*
 
-This dashboard includes:
-- Time series plots by region/service
-- Choropleth maps showing regional averages
-- Year-over-year percentage change charts
+### 💻 Local Version  
+To install and run it locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/MathRC/canada-service-prices.git
+cd canada-service-prices
+
+# Set up the environment
+conda env create -f environment.yml
+conda activate aespi-env
+
+# Launch dashboard
+python dashboard/app.py
+```
+
+Open [http://localhost:8050](http://localhost:8050) in your browser.
+
+---
+
+Both options offer the full dashboard experience:
+- 📈 Time series trends across regions and services  
+- 🗺️ Choropleth mapping of regional price averages  
+- 📊 Year-over-year percentage change charts
 
 ---
 
