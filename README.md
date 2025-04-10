@@ -3,57 +3,58 @@
 ![Dashboard Screenshot](analysis/assets/interactive_dashboard.png)
 
 ## 📌 Project Overview
-Analysis of Statistics Canada's **AESPI** dataset tracking professional service prices across Canadian regions (2018-2024). Combines:
-- Exploratory data analysis (Jupyter Notebook)
-- Interactive dashboard (Plotly Dash)
-- Regional price trend visualizations
+Analysis of Statistics Canada's **AESPI** dataset tracking professional service prices across Canadian regions (2018-2024). 
+
+**Primary Objective**: Identify regional and sector-specific pricing trends (2018-2024) to help businesses:
+- Optimize procurement timing
+- Anticipate regional cost pressures
+- Benchmark service expenditures
+
+Combines three approaches:
+1. **Exploratory data analysis** (Jupyter Notebook)
+2. **Interactive dashboard** (Plotly Dash)
+3. **Regional price trend visualizations**
 
 ## 📜 License
-This project is licensed under the **MIT License** - see [LICENSE.txt](LICENSE.txt) for details.
-
-## 🏗️ Repository Structure
-```
-canada-service-prices/
-├── analysis/                # Jupyter notebook + static visuals
-├── dashboard/               # Interactive web app
-├── data/                    # Raw and processed datasets
-├── LICENSE.txt              # MIT License terms
-└── README.md
-```
+MIT License - see [LICENSE.txt](LICENSE.txt).
 
 ## 🔍 Key Insights
-1. **Regional Variations**
-   - Quebec & BC: Highest increases (+35-38 pts) from mega-projects
-   - Atlantic Region: Architectural services spike (+36.7)
-   - Ontario/Prairies: Most stable growth patterns
+1. **Price Index Variations**
+   - **Quebec & BC**: Highest increases (+37.4 Quebec, +35.8 BC index points)
+   - **Atlantic Region**: Architectural services spiked (+36.7 points) post-2020
+   - **Ontario/Prairies**: Most stable growth (+20.6 Ontario, +19.4 Prairie points)
 
-2. **Service Differences**  
-   ![Heatmap](analysis/figures/price_change_heatmap.png)
+2. **Sector Comparisons**  
+   ![Price Change Heatmap](analysis/figures/price_change_heatmap.png)  
+   *Engineering services drove Quebec/BC's price surge (+37-39 points), while surveying services stagnated in Atlantic Canada (+0.7).*
 
 ## 🚀 Getting Started
-### 1. Reproduce Analysis
+### 1. Setup Environment
 ```bash
 conda env create -f environment.yml
+conda activate aespi-env
+```
+
+### 2. Run Analysis
+```bash
 jupyter notebook analysis/analysis.ipynb
 ```
 
-### 2. Run Dashboard
+### 3. Launch Dashboard
 ```bash
-cd dashboard
-pip install -r requirements.txt
-python app.py
+python dashboard/app.py  # Runs on http://localhost:8050
 ```
-Access at: `http://localhost:8050`
 
 ## 🛠️ Technical Stack
 - **Data Processing**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Missingno
+- **Data Cleaning**: missingno
+- **Visualization**: Matplotlib, Seaborn
 - **Dashboard**: Plotly Dash, GeoPandas
+- **Geospatial**: GeoJSON, Choropleth maps
 
 ## 📊 Data Source
-[Statistics Canada - Architectural, Engineering and Related Services Price Index](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810016401)  
-*(CANSIM Table 18-10-0164-01, 2018-2024)*
+[Statistics Canada Table 18-10-0164-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810016401)  
 
 ---
 
-**Note**: Project focuses on observable trends rather than predictive modeling due to economic volatility.
+**Note**: Focuses on observable trends rather than predictive modeling due to rapidly changing economic conditions.
