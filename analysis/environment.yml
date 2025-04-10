@@ -1,18 +1,18 @@
-name: canada-service-prices
+name: aespi-env
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  # Core
-  - python=3.12.7
-  - pandas=2.2.2
-  - numpy=1.26.4
+  # Core Analysis
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
   
-  # Visualization
-  - matplotlib=3.9.2
-  - seaborn=0.13.2
-  - missingno=0.4.2
-  
-  # Jupyter
-  - jupyterlab=4.2.5
-  - ipykernel=6.28.0
+  # Dashboard
+  - dash
+  - dash-core-components
+  - dash-html-components
+  - geopandas
+  - plotly
