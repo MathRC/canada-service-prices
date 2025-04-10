@@ -1,6 +1,6 @@
 # Canadian Architectural & Engineering Services Price Analysis
 
-![Dashboard Screenshot](analysis/assets/interactive_dashboard.png)
+![Dashboard Screenshot](analysis/assets/interactive_dashboard_readme.png)
 
 ## 📌 Project Overview
 Analysis of Statistics Canada's **AESPI** dataset tracking professional service prices across Canadian regions (2018-2024). 
