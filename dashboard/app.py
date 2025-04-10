@@ -63,7 +63,7 @@ app.layout = html.Div([
                         int(pd.Timestamp(year=y, month=1, day=1).timestamp()): {'label': str(y)}
                         for y in range(min_date.year, max_date.year + 1)
                     },
-                    step=86400,  # 1-day precision
+                    step=86400,
                     tooltip=None,
                     className="slider"
                 )
