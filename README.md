@@ -18,6 +18,17 @@ Combines three approaches:
 ## 📜 License
 MIT License - see [LICENSE.txt](LICENSE.txt).
 
+## 🏗️ Repository Structure
+```
+canada-service-prices/
+├── analysis/                # Jupyter notebook + static visuals
+├── dashboard/               # Interactive app
+├── data/                    # Raw and processed datasets
+├── environment.yml          # Conda environment specification
+├── LICENSE.txt              # MIT License terms
+└── README.md
+```
+
 ## 🔍 Key Insights
 1. **Price Index Variations**
    - **Quebec & BC**: Highest increases (+37.4 Quebec, +35.8 BC index points)
@@ -53,7 +64,7 @@ python dashboard/app.py  # Runs on http://localhost:8050
 - **Geospatial**: GeoJSON, Choropleth maps
 
 ## 📊 Data Source
-[Statistics Canada Table 18-10-0164-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810016401)  
+Statistics Canada. [Table 18-10-0164-01  Architectural, engineering and related services price index, quarterly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810016401)
 
 ---
 
