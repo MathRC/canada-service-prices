@@ -26,7 +26,7 @@ MIT License - see [LICENSE.txt](LICENSE.txt).
 
 2. **Sector Comparisons**  
    ![Price Change Heatmap](analysis/figures/price_change_heatmap.png)  
-   *Engineering services drove Quebec/BC's price surge (+37-39 points), while surveying services stagnated in Atlantic Canada (+0.7).*
+   *Engineering services drove Quebec/BC's price surge (+37.9-39.8 points), while surveying services stagnated in Atlantic Canada (+0.7).*
 
 ## 🚀 Getting Started
 ### 1. Setup Environment
