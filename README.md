@@ -38,7 +38,8 @@ conda env create -f environment.yml
 conda activate aespi-env
 
 # Launch dashboard
-python dashboard/app.py # then open http://localhost:8050 in your browser
+cd dashboard
+python app.py  # Access at http://localhost:8050
 ```
 
 
