@@ -31,12 +31,11 @@ canada-service-prices/
 ## 🔍 Key Insights
 1. **Price Index Variations**
    - **Quebec & BC**: Highest increases (+37.4 Quebec, +35.8 BC index points)
-   - **Atlantic Region**: Architectural services spiked (+36.7 points) post-2020
    - **Ontario/Prairies**: Most stable growth (+20.6 Ontario, +19.4 Prairie points)
 
 2. **Sector Comparisons**  
    ![Price Change Heatmap](analysis/figures/price_change_heatmap.png)  
-   *Engineering services drove Quebec's price surge (+39.8 points) and BC's increase (+37.9 points), while surveying services stagnated in Atlantic Canada (+0.7).*
+   *Engineering services drove Quebec's price surge (+39.8 points) and BC's increase (+37.9 points), while surveying services stagnated in Atlantic Canada (+0.7). Architectural services spiked in the Atlantic Region (+36.7 points).*
 
 ## 🚀 Getting Started
 ### 1. Setup Environment
