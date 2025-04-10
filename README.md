@@ -14,6 +14,21 @@ Combines two approaches:
 1. **Exploratory data analysis** (Jupyter Notebook)
 2. **Interactive dashboard** (Plotly Dash)
 
+---
+
+## 🌐 Live Dashboard
+
+Explore the interactive dashboard here:  
+👉 **[canada-service-prices.ca-central.elasticbeanstalk.com](http://canada-service-prices.ca-central.elasticbeanstalk.com)**  
+*(Hosted on AWS Elastic Beanstalk)*
+
+This dashboard includes:
+- Time series plots by region/service
+- Choropleth maps showing regional averages
+- Year-over-year percentage change charts
+
+---
+
 ## 📜 License
 MIT License - see [LICENSE.txt](LICENSE.txt).
 
