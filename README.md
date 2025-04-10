@@ -19,7 +19,8 @@ Combines two approaches:
 ## 🌐 Live Dashboard
 
 Explore the interactive dashboard here:  
-👉 **[canada-service-prices.ca-central.elasticbeanstalk.com](http://canada-service-prices.ca-central.elasticbeanstalk.com)**  
+👉 **[Launch Dashboard](http://canada-service-prices.eba-syppj3bg.us-east-1.elasticbeanstalk.com)
+**  
 *(Hosted on AWS Elastic Beanstalk)*
 
 This dashboard includes:
