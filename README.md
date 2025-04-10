@@ -1,4 +1,4 @@
-# Canadian Architectural & Engineering Services Price Analysis
+<h1 align="center">Canadian Architectural & Engineering Services Price Analysis</h1>
 <br>
 
 ![Dashboard Screenshot](analysis/assets/interactive_dashboard_readme.png)
