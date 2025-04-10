@@ -10,10 +10,9 @@ Analysis of Statistics Canada's **AESPI** dataset tracking professional service 
 - Anticipate regional cost pressures
 - Benchmark service expenditures
 
-Combines three approaches:
+Combines two approaches:
 1. **Exploratory data analysis** (Jupyter Notebook)
 2. **Interactive dashboard** (Plotly Dash)
-3. **Regional price trend visualizations**
 
 ## 📜 License
 MIT License - see [LICENSE.txt](LICENSE.txt).
