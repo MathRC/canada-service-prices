@@ -1,0 +1,28 @@
+name: aespi-env
+channels:
+  - conda-forge
+dependencies:
+  # Core
+  - python=3.9
+  - numpy=2.0.2
+  - pandas=2.2.3
+  
+  # Visualization
+  - matplotlib=3.9.4
+  - seaborn=0.13.2
+  - plotly=6.0.1
+  - missingno=0.5.2
+
+  # Dashboard
+  - dash=3.0.1
+  - geopandas=1.0.1
+  - folium=0.19.5
+  - shapely=2.0.7
+  - pyproj=3.6.1
+
+  # Notebook
+  - jupyterlab=4.1.6
+  - ipykernel=6.29.4
+
+  # Web server (optional)
+  - gunicorn=23.0.0
