@@ -8,7 +8,7 @@ Analysis of Statistics Canada's **AESPI** dataset tracking professional service 
 
 **Primary Objective**: Identify regional and sector-specific pricing trends (2018-2024) to help businesses:
 - Optimize procurement timing
-- Anticipate regional cost pressures
+- Understand regional cost pressures
 - Benchmark service expenditures
 
 Combines two approaches:
