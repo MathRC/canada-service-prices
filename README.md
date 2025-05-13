@@ -59,9 +59,9 @@ canada-service-prices/
 ├── analysis/                # Jupyter notebook + static visuals
 ├── dashboard/               # Interactive app
 ├── data/                    # Raw and processed datasets
-├── environment.yml          # Conda environment specification
 ├── LICENSE.txt              # MIT License terms
-└── README.md
+├── README.md                # This file
+└── environment.yml          # Conda environment specification
 ```
 
 ## 🔍 Key Insights
